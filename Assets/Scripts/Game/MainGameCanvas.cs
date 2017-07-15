@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class MainGameCanvas : MonoBehaviour
 {
-
 	/// <summary>mapオブジェクトリスト</summary>
 	[SerializeField]
 	private List<GameObject> mapList;
