@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Player : MonoBehaviour {
 
-	static readonly int MaxMoney = 1000000000;
+	static readonly int MaxMoney = 1000000000; //10億0000万0000
 
 	[SerializeField]
 	int _Money;
